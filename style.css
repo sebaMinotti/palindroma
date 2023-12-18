@@ -1,0 +1,37 @@
+*{
+    padding: 0;box-sizing: border-box;margin: 0;
+}
+.containerApp{
+    width: 700px;
+    height: 300px;
+    background-color: rgb(47, 79, 149);
+    padding: 10px;
+    margin: 10px auto;
+    position: relative;
+}
+.containerApp h2{
+    color: rgb(228, 205, 249);
+    font-style:normal ;
+    font-family: sans-serif;
+ 
+}
+.containerApp input{
+    width: 300px;
+    height: 40px;
+    border: none;outline: none;
+    margin-top: 10px;
+    border-radius: 6px;
+    padding: 5px;
+    
+}
+button{
+    position: absolute;
+    right: 20px;
+    bottom:20px ;
+    width: 100px;
+    height: 40px;
+    border: none;outline: none;
+    background-color: rgb(208, 47, 208);
+    color: white;
+    border-radius: 6px;
+}
